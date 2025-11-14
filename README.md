@@ -8,9 +8,9 @@
 
 ## Acerca de mi :
 
-- 🏢 Ingeniería de Sistemas
+- 🏢 Ingeniería de Sistemas UMD
 - 🎓 Estudio Ingeniería de Sistemas
-- 🏡 Vivo Colombia, Bogota
+- 🏡 Vivo Bogota, Colombia
 - ⚡ Datos curiosos: 🍕  🎥 🚞
 
 <br>
