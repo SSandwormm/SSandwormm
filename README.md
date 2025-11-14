@@ -13,14 +13,12 @@
 > Busco constantemente aplicar mis habilidades y crecer profesionalmente.
 
 * **🎓 Carrera:** Ingeniería de Sistemas
-* **🏢 Universidad:** Uniminuto (Bogotá, Colombia)
+* **🏢 Universidad:** Uniminuto
 * **💡 Habilidades Blandas:** Aprendizaje autodidacta, curiosidad y búsqueda de conocimiento.
 * **⚡ Intereses:** Videojuegos 🎮, Cine 🎥 y Viajes 🗺️.
 
 ## Conéctate conmigo ☕ :
-
 <br>
-
 [![Instagram Icon](https://img.icons8.com/fluency/48/000000/instagram-new.png "Tu Nombre de Usuario de Instagram")](#)
 [![LinkedIn Icon](https://img.icons8.com/fluency/48/000000/linkedin.png "Tu Nombre de Usuario de LinkedIn")](#)
 [![Correo Electrónico Icon](https://img.icons8.com/fluency/48/000000/apple-mail.png "Tu Correo Electrónico")](mailto:)
