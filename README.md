@@ -1,19 +1,21 @@
-<!-- HEADER -->
+<!-- HEADER 
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Edvardas%20Jusius%20(Dum6o)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  <img src=""
   alt="header"/>
 </div>
-<hr>
+<hr> -->
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Mi Nombre es Carlos R.</h1>
 
-## Acerca de mi :
+## Acerca de Mí 💡
 
-- 🏢 Ingeniería de Sistemas UMD
-- 🎓 Estudio Ingeniería de Sistemas
-- 🏡 Vivo Bogota, Colombia
-- ⚡ Datos curiosos: 🍕  🎥 🚞
+> Soy un estudiante de Ingeniería de Sistemas en la Universidad Uniminuto, ubicado Colombia.
+> Me considero un apasionado del conocimiento y el aprendizaje autodidacta.
+> Busco constantemente aplicar mis habilidades y crecer profesionalmente.
 
-<br>
+* **🎓 Carrera:** Ingeniería de Sistemas
+* **🏢 Universidad:** Uniminuto (Bogotá, Colombia)
+* **💡 Habilidades Blandas:** Aprendizaje autodidacta, curiosidad y búsqueda de conocimiento.
+* **⚡ Intereses:** Videojuegos 🎮, Cine 🎥 y Viajes 🗺️.
 
 ## Conéctate conmigo ☕ :
 
@@ -22,11 +24,8 @@
 [![Instagram Icon](https://img.icons8.com/fluency/48/000000/instagram-new.png "Tu Nombre de Usuario de Instagram")](#)
 [![LinkedIn Icon](https://img.icons8.com/fluency/48/000000/linkedin.png "Tu Nombre de Usuario de LinkedIn")](#)
 [![Correo Electrónico Icon](https://img.icons8.com/fluency/48/000000/apple-mail.png "Tu Correo Electrónico")](mailto:)
-
 <br>
-
 ## Mis habilidades 🧑‍💻 :
-
 <br>
 
 ### Lenguajes de programación:
