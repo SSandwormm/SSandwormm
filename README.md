@@ -18,29 +18,34 @@
 * **⚡ Intereses:** Videojuegos 🎮, Cine 🎥 y Viajes 🗺️.
 
 ## Conéctate conmigo ☕ :
-<br>
 
 [![Instagram Icon](https://img.icons8.com/fluency/48/000000/instagram-new.png "Tu Nombre de Usuario de Instagram")](#)
 [![LinkedIn Icon](https://img.icons8.com/fluency/48/000000/linkedin.png "Tu Nombre de Usuario de LinkedIn")](#)
-[![Correo Electrónico Icon](https://img.icons8.com/fluency/48/000000/apple-mail.png "Tu Correo Electrónico")](mailto:)
+[![Gmail Icon](https://img.icons8.com/fluency/48/000000/gmail.png "Tu Correo Electrónico")](mailto:tu.correo@gmail.com)
+[![Computrabajo Icon](https://img.icons8.com/fluency/48/000000/briefcase.png "Tu Perfil de Computrabajo")](ENLACE_A_TU_PERFIL_COMPUTRABAJO)
 <br>
 ## Mis habilidades 🧑‍💻 :
-<br>
 
-### Lenguajes de programación:
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
-&emsp;
+### Lenguajes de Programación ☕
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="48" height="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="48" height="48"/>
 
-### Desarrollo Frontend:
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
-&emsp;
+### Desarrollo Web (Frontend & Backend) 🌐
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
 
-### Servicios y Frameworks:
-&emsp;
+### Bases de Datos 💾
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48" height="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" alt="Firebase" width="48" height="48"/>
 
-### Bases de datos:
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-&emsp;
+### Entornos de Desarrollo (IDEs) 🖥️
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" alt="NetBeans" width="48" height="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="48" height="48"/>
+
 
 <br>
 
