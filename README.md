@@ -1,6 +1,7 @@
-<div align="center" width="50">
-    <img alt="https://github.com/SSandwormm" src="./assets/oh hi there.png" width="300"/>
-</div>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Mi Nombre es Carlos R.</h1>
 
 ## Acerca de mi :
