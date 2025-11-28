@@ -19,7 +19,7 @@
 
 ## Conéctate conmigo ☕ :
 
-//[![Instagram Icon](https://img.icons8.com/fluency/48/000000/instagram-new.png "Tu Nombre de Usuario de Instagram")](#)
+<!--[![Instagram Icon](https://img.icons8.com/fluency/48/000000/instagram-new.png "Tu Nombre de Usuario de Instagram")](#)-->
 [![LinkedIn Icon](https://img.icons8.com/fluency/48/000000/linkedin.png "Tu Nombre de Usuario de LinkedIn")](#)
 [![Gmail Icon](https://img.icons8.com/fluency/48/000000/gmail.png "Tu Correo Electrónico")](mailto:tu.correo@gmail.com)
 [![Computrabajo Icon](https://img.icons8.com/fluency/48/000000/briefcase.png "Tu Perfil de Computrabajo")](ENLACE_A_TU_PERFIL_COMPUTRABAJO)
