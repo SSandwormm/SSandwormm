@@ -12,8 +12,8 @@
 > Me considero un apasionado del conocimiento y el aprendizaje autodidacta.
 > Busco constantemente aplicar mis habilidades y crecer profesionalmente.
 
-* **🎓 Carrera:** Ingeniería de Sistemas
-* **🏢 Universidad:** Uniminuto
+* **🎓 Carrera:** Ingeniería de Sistemas.
+* **🏢 Universidad:** Uniminuto.
 * **💡 Habilidades Blandas:** Aprendizaje autodidacta, curiosidad y búsqueda de conocimiento.
 * **⚡ Intereses:** Videojuegos 🎮, Cine 🎥 y Viajes 🗺️.
 
